@@ -3,7 +3,7 @@ dB Meter for BlackBerry OS
 
 My resume: https://www.linkedin.com/in/romanverhovsek/
 
-IF YOU WOULD LIKE TO HIRE ME FOR DEVELOPMENT OF JAVA DESKTOP, MOBILE (IOS AND ANDROID), TV, IOT OR SERVER (JAVAEE) APPS, PLEASE CONTACT ME AT ROMAN@PRONIC.SI !!!
+IF YOU WOULD LIKE TO HIRE ME FOR DEVELOPMENT OF JAVA DESKTOP, MOBILE (iOS AND ANDROID), TV, IoT OR SERVER (JavaEE) APPS, PLEASE CONTACT ME AT roman@pronic.si !!!
 
 The Noise meter records sounds in the vicinity of the device and calculates their levels in decibels.
 
