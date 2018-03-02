@@ -7,7 +7,7 @@ IF YOU WOULD LIKE TO HIRE ME FOR DEVELOPMENT OF JAVA DESKTOP, MOBILE (iOS AND AN
 
 The Noise meter records sounds in the vicinity of the device and calculates their levels in decibels.
 
-The sound leIF YOU WOULD LIKE TO HIRE ME FOR DEVELOPMENT OF JAVA DESKTOP, MOBILE (IOS AND ANDROID), TV, IOT OR SERVER (JAVAEE) APPS, PLEASE CONTACT ME AT ROMAN@PRONIC.SI !!!vel depends on the distance between the sound source and the place of measurement, and varies slightly among different devices due to their microphone characteristics.
+The sound level depends on the distance between the sound source and the place of measurement, and varies slightly among different devices due to their microphone characteristics.
 
 WARNING: You MUST accept permissions otherwise the device will not measure the sound and will show the lowest measurement possible (14 dB)!!!
 
