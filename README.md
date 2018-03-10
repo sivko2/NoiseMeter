@@ -1,6 +1,8 @@
 # NoiseMeter
 dB Meter for BlackBerry OS
 
+License: GNU General Public License, version 3 (GPL-3.0)
+
 My resume: https://www.linkedin.com/in/romanverhovsek/
 
 IF YOU WOULD LIKE TO HIRE ME FOR DEVELOPMENT OF JAVA DESKTOP, MOBILE (iOS AND ANDROID), TV, IoT OR SERVER (JavaEE) APPS, PLEASE CONTACT ME AT roman@pronic.si !!!
